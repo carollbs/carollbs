@@ -26,9 +26,11 @@ Here are some ideas to get you started:
 
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
-## About me
+## Contact info
 
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white=https://wa.me/5575992707627)](https://wa.me/5575992707627)
+
+## About me
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white=https://github.com/carollbs)](https://github.com/carollbs)
 
