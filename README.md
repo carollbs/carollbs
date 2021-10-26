@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 
 ## About me
 
+[![Linkedin Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white=https://wa.me/5575992707627)](https://wa.me/5575992707627)
+
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/carollbs)](https://github.com/carollbs)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caroldasilvaborges/)]( https://www.linkedin.com/in/caroldasilvaborges/)
