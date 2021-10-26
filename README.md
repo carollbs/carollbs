@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
  
 
-:computer: I'm Front-End Developer!
+:computer: Front-End Developer!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: Brazil.
 
-:books: I’m currently learning Web Development.
+:books: Currently learning Web Development - HTML, CSS3, JavaScript.
 
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
