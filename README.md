@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 
 ## About me
 
-
-<img height= "20" src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white=https://wa.me/5575992707627">
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white=https://wa.me/5575992707627)(img height = "20")](https://wa.me/5575992707627)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/carollbs)](https://github.com/carollbs)
 
