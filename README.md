@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 
 :books: Currently learning Web Development - HTML, CSS3, JavaScript.
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
-
 ## Contact info
 
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white=https://wa.me/5575992707627)](https://wa.me/5575992707627)
